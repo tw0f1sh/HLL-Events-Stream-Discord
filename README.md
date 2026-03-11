@@ -1,4 +1,4 @@
-#Hell Let Loose Competitive Event & Stream Hub
+# Hell Let Loose Competitive Event & Stream Hub
 
 <p align="center">
   <img src="rm_assets/logo.png" alt="Logo" width="370">
